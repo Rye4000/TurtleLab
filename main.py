@@ -11,7 +11,7 @@ colors = ["#00ff9f", "#00b8ff", "#001eff", "#bd00ff", "#fcee0c"]
 
 #Counter variables
 colorNum = 0
-size = 18
+size = 1
 
 #Change this variable to control how many sides your shape will have
 sides = 8
